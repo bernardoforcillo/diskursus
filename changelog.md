@@ -7,4 +7,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2024-03-14
 
-Code rewrited from a previous golang project
+Code rewrited from a previous golang project, see [midjourney-go](https://github.com/bernardoforcillo/midjourney-go)
